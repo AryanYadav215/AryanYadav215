@@ -1,5 +1,5 @@
 # 💫 About Me:
-Slow APIs and fast hotfixes will ruin your project! is this really about a project? 🤔<br>..<br>nvm<br>..<br>I like building systems that don't just work, they make sense.<br><br>Interested in backend engineering, AI, problem solving, and building projects that are more than just demos.<br><br>Always learning. Always shipping.<br>
+Slow APIs and fast hotfixes will ruin your project! is this really about a project? 🤔<br>..<br>nvm<br>..<br>I like building systems that don't just work, they make sense.<br><br>Interested in backend engineering, AI, problem solving, and building projects that are more than just demos.<br><br>DREAM. BUILD. ACHEIVE.<br>
 
 
 ## 🌐 Socials:
